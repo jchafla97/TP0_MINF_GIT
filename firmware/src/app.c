@@ -133,7 +133,9 @@ void APP_Initialize ( void )
 
 void APP_Tasks ( void )
 {
-      
+    // demo git   
+    
+    
     /* Check the application's current state. */
     switch ( appData.state )
     {
